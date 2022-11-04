@@ -44,7 +44,7 @@ _Целевой признак_
 ## Вывод
 Лучшая модель RandomForestClassifier имеет следующие характеристики: 
 
-- n_estimators=50, max_depth=9, min_samples_leaf=1, min_samples_split=6
+- n_estimators=40, max_depth=9, min_samples_leaf=1, min_samples_split=6
     
 - устранение дисбаланса целевого признака путем взвешивания классов: class_weight='balanced'
         
